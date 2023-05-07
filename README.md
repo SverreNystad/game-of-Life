@@ -30,6 +30,11 @@ To build and run the project, follow these steps:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
+## Acknowledgments
+I would like to gice thanks to
+- John Horton Conway, the creator of the Game of Life, for his groundbreaking work in the field of cellular automata.
+- The Java community, including the authors of various libraries and tools used in this project, for their invaluable resources and contributions to the open-source ecosystem.
+
 ## License
 
 [MIT](https://github.com/SverreNystad/game-of-Life/blob/master/LICENSE)
