@@ -34,6 +34,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 I would like to gice thanks to
 - John Horton Conway, the creator of the Game of Life, for his groundbreaking work in the field of cellular automata.
 - The Java community, including the authors of various libraries and tools used in this project, for their invaluable resources and contributions to the open-source ecosystem.
+- The Gradle team for creating and maintaining the powerful build automation tool that has streamlined the development process and made it easier to manage project dependencies and configurations.
+
 
 ## Future Features
 1. **Adjustable Grid Size**: Allow users to customize the grid size to better suit their screen resolution and preferences.
