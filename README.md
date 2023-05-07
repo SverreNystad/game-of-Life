@@ -48,5 +48,5 @@ I would like to gice thanks to
 
 
 ## License
-Boids the Game is released under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `[LICENSE](https://github.com/SverreNystad/game-of-Life/blob/master/LICENSE)` file in the project's root folder for the full text.
+This game of life application is released under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `[LICENSE](https://github.com/SverreNystad/game-of-Life/blob/master/LICENSE)` file in the project's root folder for the full text.
 
