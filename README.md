@@ -3,6 +3,11 @@
 This is a Java implementation of Conway's Game of Life, a cellular automaton devised by the British mathematician John Horton Conway in 1970. The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 The application follows the Model-View-Controller pattern, separating the concerns of data, presentation, and user interaction.
 The Model and View are connected using the Observer/Observable pattern. The Model acts as the Observable and the View acts as the Observer. This allows the Model to notify the View of changes, updating the display accordingly.
+
+<div align="center">
+    <img src="https://i.gyazo.com/675756a7a693da8d650afe52b305a5e1.gif" width="400">
+</div>
+
 ## Features
 
 - A simple and easy-to-use GUI to set up the initial state
